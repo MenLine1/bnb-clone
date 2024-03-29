@@ -61,3 +61,6 @@ npm run dev
 ## Available commands
 
 Running commands with npm `npm run [command]`
+
+## Test running app yourself
+https://rental-project-eight.vercel.app/
